@@ -12,3 +12,5 @@
 # 2. Comparsion
 
 > [A comparison of Microservices Frameworks](https://cdelmas.github.io/2015/11/01/A-comparison-of-Microservices-Frameworks.html)
+
+> [Top 8 Java RESTful Micro Frameworks](http://www.gajotres.net/best-available-java-restful-micro-frameworks/)
