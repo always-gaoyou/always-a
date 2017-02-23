@@ -50,6 +50,7 @@
 - Service Layer
 
 > - 服务容错
+
 >> Circuit Breaker Patten
 
 >> Bulkhead Isolation Pattern
